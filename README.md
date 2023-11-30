@@ -2,4 +2,4 @@
 
 ![Couverture nofish : phishing attack](images/nofishCoverImage.png)
 
-**Présentation démo au Forum de Conakry sur la cybersécurité** : Information sur le hameçonnage (attaque de phishing) et comment l'éviter.
+**Présentation de démonstration au Forum de Conakry sur la cybersécurité** : Session d'information et démonstration sur le hameçonnage (attaque de phishing) et comment l'éviter.
