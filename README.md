@@ -4,43 +4,43 @@
 
 Présentation de démonstration au **Forum de Conakry sur la cybersécurité 2023** : Session d'information et démonstration sur le hameçonnage (attaque de phishing) et comment l'éviter.
 ---
-# Phishing Attack Awareness and Prevention
+# Sensibilisation et prévention contre les attaques par hameçonnage
 
-## Overview
-This repository is dedicated to raising awareness about phishing attacks, their methods, and prevention techniques.
+## Vue d'ensemble
+Ce dépôt est dédié à sensibiliser sur les attaques par hameçonnage, leurs méthodes et techniques de prévention.
 
-## What is Phishing?
-Phishing is a type of social engineering attack often used to steal user data, including login credentials and credit card numbers.
+## Qu'est-ce que l'hameçonnage ?
+L'hameçonnage est un type d'attaque de social engineering souvent utilisé pour voler des données d'utilisateurs, y compris des identifiants de connexion et des numéros de cartes de crédit.
 
-## Common Types of Phishing
-- **Email Phishing:** The most widespread, using deceptive emails as bait.
-- **Spear Phishing:** Targeted attacks at specific individuals or companies.
-- **Whaling:** Attacks targeting high-profile executives.
+## Types courants d'hameçonnage
+- **Hameçonnage par email :** Le plus répandu, utilisant des emails trompeurs comme appât.
+- **Hameçonnage ciblé :** Attaques ciblées contre des individus ou des entreprises spécifiques.
+- **Hameçonnage de baleines :** Attaques visant des cadres de haut niveau.
 
-## How to Recognize Phishing
-- Check for suspicious email addresses.
-- Be wary of generic greetings and urgent language.
-- Look out for misspellings and grammatical errors.
+## Comment reconnaître l'hameçonnage
+- Vérifier les adresses email suspectes.
+- Se méfier des salutations génériques et du langage urgent.
+- Faire attention aux fautes d'orthographe et aux erreurs grammaticales.
 
-## Prevention Strategies
-- Use spam filters and antivirus software.
-- Implement multi-factor authentication.
-- Educate employees and users regularly.
+## Stratégies de prévention
+- Utiliser des filtres anti-spam et des logiciels antivirus.
+- Mettre en place une authentification multi-facteurs.
+- Éduquer régulièrement les employés et les utilisateurs.
 
-## Reporting Phishing
-- Forward phishing emails to `reportphishing@antiphishing.org`.
-- Report phishing attempts to your local authorities.
+## Signalement de l'hameçonnage
+- Transférer les emails d'hameçonnage à `reportphishing@antiphishing.org`.
+- Signaler les tentatives d'hameçonnage aux autorités locales.
 
-## Resources
-- [Anti-Phishing Working Group](https://www.antiphishing.org/)
-- [Federal Trade Commission - Phishing](https://www.consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams)
+## Ressources
+- [Groupe de Travail Anti-Hameçonnage](https://www.antiphishing.org/)
+- [Commission Fédérale du Commerce - Hameçonnage](https://www.consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams)
 
-## Contributing
-Contributions to this repository are welcome. See `CONTRIBUTING.md` for how to get started.
+## Contribution
+Les contributions à ce dépôt sont les bienvenues. Voir `CONTRIBUTING.md` pour savoir comment commencer.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Licence
+Ce projet est sous licence MIT - voir le fichier [LICENCE](LICENSE) pour plus de détails.
 
 ## Contact
-For any queries, reach out to us at `security@example.com`.
+Pour toute question, contactez-nous à `security@example.com`.
 
