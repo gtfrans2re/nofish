@@ -19,7 +19,7 @@ L'hameçonnage est un type d'attaque de social engineering souvent utilisé pour
 
 ### Comment reconnaître l'hameçonnage
 - Vérifier les adresses email suspectes ;
-- Faire attention aux liens cliquabes ;
+- Faire attention aux liens cliquabes, surtout ceux commençant par `http://` ;
 - Se méfier des salutations génériques et du langage urgent ;
 - Faire attention aux fautes d'orthographe et aux erreurs grammaticales ;
 
@@ -70,13 +70,13 @@ L'hameçonnage est un type d'attaque de social engineering souvent utilisé pour
 ---
 
 ### Stratégies de prévention
-- Utiliser des filtres anti-spam et des logiciels antivirus.
-- Mettre en place une authentification multi-facteurs.
-- Éduquer régulièrement les employés et les utilisateurs.
+- Utiliser des filtres anti-spam et des logiciels antivirus ;
+- Mettre en place une authentification multi-facteurs ;
+- Éduquer régulièrement les employés et les utilisateurs ;
 
 ### Signalement de l'hameçonnage
-- Transférer les emails d'hameçonnage à `reportphishing@antiphishing.org`.
-- Signaler les tentatives d'hameçonnage aux autorités locales telles que l'ANSSI Guinée
+- Transférer les emails d'hameçonnage à `reportphishing@antiphishing.org` ;
+- Signaler les tentatives d'hameçonnage aux autorités locales telle que l'ANSSI Guinée ;
 
 ### Ressources
 - [Groupe de Travail Anti-Hameçonnage](https://www.antiphishing.org/)
