@@ -40,7 +40,9 @@ L'hameçonnage est généralement effectué par e-mail, par le biais d'annonces 
 - Faire attention aux fautes d'orthographe et aux erreurs grammaticales ;
 
 ---
-### Live hacking démo par Francois Gonothi Toure :
+### Démo Live hacking par Francois Gonothi Toure :
+
+## Démo 1 : Piratage de compte Facebook / Messenger :
 
 ![Img1](images/Img1.jpeg)
 
@@ -66,6 +68,7 @@ L'hameçonnage est généralement effectué par e-mail, par le biais d'annonces 
 ![Img1](images/Img7.jpeg)
 
 ---
+## Démo 1 : Piratage de compte Facebook / Messenger :
 ![Img1](images/Img8.jpeg)
 
 ---
