@@ -1,8 +1,12 @@
-# nofish : Halte au hameçonnage (aka phishing attack)
+# nofish : Halte au hameçonnage (phishing attack)
 
 ![Couverture nofish : phishing attack](images/nofishCoverImage.png)
 
-Présentation de démonstration au **Forum de Conakry sur la cybersécurité ([FCC](https://forum-fcc.com/)) 2023** : Session d'information et démonstration sur le hameçonnage (attaque de phishing) et comment l'éviter.
+**Démo** [**live hacking**](https://forum-fcc.com/programme/#:~:text=D%C3%A9mo,15%20%2D%2015%3A30) au **Forum de Conakry sur la cybersécurité ([FCC](https://forum-fcc.com/)) 2023** par [**Francois Gonothi Toure**](https://www.linkedin.com/in/gtfrans2re/)
+- **Date** : 12 Décembre 2023
+- **Heure** : 15:15 - 15:30 GMT+0
+- **Lieu** : Primus hôtel kaloum, Conakry, République de Guinée
+
 ---
 ## Sensibilisation et prévention contre les attaques par hameçonnage
 
