@@ -42,7 +42,7 @@ L'hameçonnage est généralement effectué par e-mail, par le biais d'annonces 
 ---
 ### Démo Live hacking par Francois Gonothi Toure :
 
-## Démo 1 : Piratage de compte Facebook / Messenger :
+#### Démo 1 : Piratage de compte Facebook / Messenger :
 
 ![Img1](images/Img1.jpeg)
 
@@ -68,7 +68,7 @@ L'hameçonnage est généralement effectué par e-mail, par le biais d'annonces 
 ![Img1](images/Img7.jpeg)
 
 ---
-## Démo 1 : Piratage de compte Facebook / Messenger :
+## Démo 2 : Piratage de compte Google / Gmail :
 ![Img1](images/Img8.jpeg)
 
 ---
