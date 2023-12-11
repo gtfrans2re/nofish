@@ -2,28 +2,40 @@
 
 ![Couverture nofish : phishing attack](images/nofishCoverImage.png)
 
-**Démo** [**live hacking**](https://forum-fcc.com/programme/#:~:text=D%C3%A9mo,15%20%2D%2015%3A30) au **Forum de Conakry sur la cybersécurité ([FCC](https://forum-fcc.com/)) 2023** par [**Francois Gonothi Toure**](https://www.linkedin.com/in/gtfrans2re/).
+**Démo** [**live hacking**](https://forum-fcc.com/programme/#:~:text=D%C3%A9mo,15%20%2D%2015%3A30) au **Forum de Conakry sur la Cybersécurité ([FCC](https://forum-fcc.com/)) 2023** par [**Francois Gonothi Toure**](https://www.linkedin.com/in/gtfrans2re/).
 - **Date** : 12 Décembre 2023
 - **Heure** : 15:15 - 15:30 (GMT+0)
-- **Lieu** : Primus hôtel kaloum, Conakry, République de Guinée
+- **Lieu** : [Primus hôtel kaloum](https://maps.app.goo.gl/vktvJRHwYLXVavjm8), Conakry, République de Guinée
 
 ---
-## Sensibilisation et prévention contre les attaques par hameçonnage
+## Sensibilisation et prévention contre les attaques par hameçonnage (phishing attacks)
 
-### Vue d'ensemble
+### Vue d'ensemble :
 Ce dépôt Github est dédié à sensibiliser sur les attaques par hameçonnage, leurs méthodes et techniques de prévention.
 
 ### Qu'est-ce que l'hameçonnage ?
-L'hameçonnage est un type d'attaque de social engineering souvent utilisé pour voler des données d'utilisateurs, y compris des identifiants de connexion et des numéros de cartes de crédit.
+L'hameçonnage est un type d'attaque de social engineering (ingénierie sociale) souvent utilisé pour voler des données d'utilisateurs, y compris des identifiants de connexion et des numéros de cartes de crédit.
 
-### Types courants d'hameçonnage
+### Fonctionnement de l'hameçonnage :
+L'hameçonnage est généralement effectué par e-mail, par le biais d'annonces ou via des sites qui ressemblent à ceux que vous utilisez déjà. Par exemple, vous pouvez recevoir un e-mail semblable à ceux envoyés par votre banque vous demandant de confirmer votre numéro de compte bancaire.
+
+### Types d'informations fréquemment ciblées lors d'attaques par hameçonnage :
+- Votre nom d'utilisateur et votre mot de passe ;
+- Votre numéro de sécurité sociale ;
+- Vos numéros de comptes bancaires ;
+- Vos codes ;
+- Vos numéros de cartes de crédit ;
+- Le nom de jeune fille de votre mère ;
+- Votre date de naissance ;
+
+### Types courants d'hameçonnage :
 - **Hameçonnage par email :** Le plus répandu, utilisant des emails trompeurs comme appât ;
-- **Hameçonnage ciblé :** Attaques ciblées contre des individus ou des entreprises spécifiques ;
+- **Hameçonnage ciblé :** Attaques ciblées contre des individus, des entreprises ou institutions spécifiques ;
 - **Hameçonnage de baleines :** Attaques visant des cadres de haut niveau ;
 
-### Comment reconnaître l'hameçonnage
+### Comment reconnaître l'hameçonnage : 
 - Vérifier les adresses email suspectes ;
-- Faire attention aux liens cliquabes, surtout ceux commençant par `http://` ;
+- Faire attention aux liens cliquabes, surtout ceux commençant par `http://` différents de `https://` ;
 - Se méfier des salutations génériques et du langage urgent ;
 - Faire attention aux fautes d'orthographe et aux erreurs grammaticales ;
 
@@ -77,14 +89,18 @@ L'hameçonnage est un type d'attaque de social engineering souvent utilisé pour
 - Utiliser des filtres anti-spam et des logiciels antivirus ;
 - Mettre en place une authentification multi-facteurs ;
 - Éduquer régulièrement les employés et les utilisateurs ;
+- Gérer les avertissements concernant les sites dangereux : [source](https://support.google.com/chrome/answer/99020) ;
+
 
 ### Signalement de l'hameçonnage
 - Transférer les emails d'hameçonnage à `reportphishing@antiphishing.org` ;
 - Signaler les tentatives d'hameçonnage aux autorités locales telle que l'ANSSI Guinée ;
+- Éviter et signaler les escroqueries Google : [source](https://support.google.com/faqs/answer/2952493?sjid=7130095044154613612-EU)
 
-### Ressources
-- [Groupe de Travail Anti-Hameçonnage](https://www.antiphishing.org/)
-- [Commission Fédérale du Commerce - Hameçonnage](https://www.consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams)
+### Ressources importantes :
+- Conseils pour se protéger sur Internet : [https://support.google.com/faqs/answer/10122896](https://support.google.com/faqs/answer/10122896)
+- Groupe de Travail Anti-Hameçonnage :[https://www.antiphishing.org/](https://www.antiphishing.org/)
+- Commission Fédérale du Commerce - Hameçonnage : [https://www.consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams](https://www.consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams)
 
 ### Contribution
 Les contributions à ce dépôt sont les bienvenues. Voir `CONTRIBUTING.md` pour savoir comment commencer.
