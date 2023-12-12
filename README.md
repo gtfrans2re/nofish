@@ -117,5 +117,5 @@ Ce projet est sous licence MIT - voir le fichier [LICENCE](LICENSE) pour plus de
 
 ## Scannez ce code QR pour accéder à ce repo Github gratuitement
 
-![Code QR pour le repo github](images/qr-cpo.png)
+![Code QR pour le repo github](images/qr-code.png)
 
