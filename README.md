@@ -1,4 +1,4 @@
-# nofish : halte au hameçonnage (phishing attack)
+# nofish : halte aux attaques par hameçonnage (phishing attacks)
 
 ![Couverture nofish : phishing attack](images/nofishCoverImage.png)
 
