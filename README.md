@@ -115,7 +115,16 @@ Ce projet est sous licence MIT - voir le fichier [LICENCE](LICENSE) pour plus de
 
 ---
 
-## Scannez ce code QR pour accéder à ce repo Github gratuitement
+## Code QR via ce repo Github (gratuit)
 
 ![Code QR pour le repo github](images/qr-code.png)
+
+<div align="center">
+  <p>Pour accéder à ce repo Github, veuillez vous scanner le <strong>code QR</strong> suivant : 
+  </p>
+  scanner le <strong>Code QR</strong> ci-dessous.
+  <br>
+  <br>
+  <img src="images/qr-code.png" alt="Code QR" style="margin-top: 10px;"/>
+</div>
 
