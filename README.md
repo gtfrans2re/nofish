@@ -123,6 +123,6 @@ Ce projet est sous licence MIT - voir le fichier [LICENCE](LICENSE) pour plus de
   scanner le <strong>Code QR</strong> ci-dessous.
   <br>
   <br>
-  <img src="images/qr-code.png.png" alt="Code QR" width="100" height="100">
+  <img src="images/qr-code.png" alt="Code QR" width="100" height="100">
 </div>
 
