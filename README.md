@@ -11,10 +11,10 @@
 ## Sensibilisation et prévention contre les attaques par hameçonnage (phishing attacks)
 
 ### Vue d'ensemble :
-Ce dépôt Github est dédié à sensibiliser sur les attaques par hameçonnage, leurs méthodes et techniques de prévention.
+Ce dépôt Github est dédié à sensibiliser sur les attaques par hameçonnage, leurs méthodes (e.g. Messenger & Gmail), techniques de prévention et le signalement quand on en est victime.
 
 ### Qu'est-ce que l'hameçonnage ?
-L'hameçonnage est un type d'attaque de social engineering (ingénierie sociale) souvent utilisé pour voler des données d'utilisateurs, y compris des identifiants de connexion et des numéros de cartes de crédit.
+L'hameçonnage est un type d'attaque d'ingénierie sociale (social engineering) souvent utilisé pour voler des données d'utilisateurs, y compris des identifiants de connexion et des numéros de cartes de crédit.
 
 ### Fonctionnement de l'hameçonnage :
 L'hameçonnage est généralement effectué par e-mail, par le biais d'annonces ou via des sites qui ressemblent à ceux que vous utilisez déjà. Par exemple, vous pouvez recevoir un e-mail semblable à ceux envoyés par votre banque vous demandant de confirmer votre numéro de compte bancaire.
@@ -38,6 +38,7 @@ L'hameçonnage est généralement effectué par e-mail, par le biais d'annonces 
 - Faire attention aux liens cliquabes, surtout ceux commençant par `http://` différents de `https://` ;
 - Se méfier des salutations génériques et du langage urgent ;
 - Faire attention aux fautes d'orthographe et aux erreurs grammaticales ;
+  - Cas pratiques : [https://www.theguardian.com/business/2016/mar/10/spelling-mistake-prevented-bank-heist](https://www.theguardian.com/business/2016/mar/10/spelling-mistake-prevented-bank-heist) & [https://www.google.com/search?q=billion+dollar+heist&rlz=1C5CHFA_enGN1057GN1057&oq=billion+dollar+heist&gs_lcrp=EgZjaHJvbWUqDQgAEAAY4wIYsQMYgAQyDQgAEAAY4wIYsQMYgAQyCggBEC4YsQMYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQg1MzU0ajFqN6gCALACAA&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=billion+dollar+heist&rlz=1C5CHFA_enGN1057GN1057&oq=billion+dollar+heist&gs_lcrp=EgZjaHJvbWUqDQgAEAAY4wIYsQMYgAQyDQgAEAAY4wIYsQMYgAQyCggBEC4YsQMYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQg1MzU0ajFqN6gCALACAA&sourceid=chrome&ie=UTF-8)
 
 ---
 ### Démo Live hacking par Francois Gonothi Toure :
