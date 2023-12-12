@@ -106,8 +106,8 @@ L'hameçonnage est généralement effectué par e-mail, par le biais d'annonces 
 - Groupe de Travail Anti-Hameçonnage :[https://www.antiphishing.org/](https://www.antiphishing.org/)
 - Commission Fédérale du Commerce - Hameçonnage : [https://www.consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams](https://www.consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams)
 
-### Contribution
-Les contributions à ce dépôt sont les bienvenues. Voir `CONTRIBUTING.md` pour savoir comment commencer.
+### Parcours de carrière en cybersécurité
+- Organisation Cyberseek : [https://www.cyberseek.org/pathway.html](https://www.cyberseek.org/pathway.html)
 
 ### Licence
 Ce projet est sous licence MIT - voir le fichier [LICENCE](LICENSE) pour plus de détails.
