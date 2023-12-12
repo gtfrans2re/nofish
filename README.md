@@ -113,3 +113,9 @@ L'hameçonnage est généralement effectué par e-mail, par le biais d'annonces 
 ### Licence
 Ce projet est sous licence MIT - voir le fichier [LICENCE](LICENSE) pour plus de détails.
 
+---
+
+## Scannez ce code QR pour accéder à ce repo Github gratuitement
+
+![Code QR pour le repo github](images/qr-cpo.png)
+
