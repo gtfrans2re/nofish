@@ -97,6 +97,7 @@ L'hameçonnage est généralement effectué par e-mail, par le biais d'annonces 
 
 ### Signalement de l'hameçonnage
 - Transférer les emails d'hameçonnage à `reportphishing@antiphishing.org` ;
+- Faire une plainte ou rentrer en contact avec la Direction de la Police Judiciaire (DPJ) pour aide ;
 - Signaler les tentatives d'hameçonnage aux autorités locales telle que l'ANSSI Guinée ;
 - Éviter et signaler les escroqueries Google : [source](https://support.google.com/faqs/answer/2952493?sjid=7130095044154613612-EU)
 
